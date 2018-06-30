@@ -16,7 +16,7 @@ BottomDialog是一个安卓底部dialog控件，支持多个dialog和他们之�
 ## Gradle 
 ```gradle
 dependencies{
-      compile 'com.abby.app:bottomdialog:0.1.0'//最新版本
+      compile 'com.abby.app:bottomdialog:0.2.0'//最新版本
 }
 ```
 
