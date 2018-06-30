@@ -16,7 +16,7 @@ BottomDialog is an component for android,it allows you to git a bottom dialog vi
 ## Gradle 
 ```gradle
 dependencies{
-      compile 'com.abby.app:bottomdialog:0.1.0'//latest version
+      compile 'com.abby.app:bottomdialog:0.2.0'//latest version
 }
 ```
 
